@@ -31,7 +31,8 @@ VERSION = None
 # What packages are required for this module to be executed?
 REQUIRED = [
     'teslajsonpy',
-    'requests'
+    'requests',
+    'websocket-client',
 ]
 
 # What packages are optional?
